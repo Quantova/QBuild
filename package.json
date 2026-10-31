@@ -1,6 +1,6 @@
 {
   "name": "@quantovainc/qbuild",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "Post quantum software release and artifact signing provenance that proves the release, artifact, attestation, approval and revocation records of a software supply chain with ML-DSA-65 under FIPS 204 and Quantova time proofs.",
   "main": "index.js",
   "types": "index.d.ts",
